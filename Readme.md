@@ -37,7 +37,7 @@ components
 
 ## Concepts in Code
 
-- An artifact is represented as *TfxArtifact* (*tfx.utils.types*)
+- An artifact is represented as *TfxArtifact* (*tfx.types.Artifact*)
 - A channel is represented as *Channel* (*tfx.utils.channel*)
 - A Executor can be overloaded from a *BaseExecutor* (*tfx.components.base.base_executor*)
 - A Component can be overloaded from a *BaseComponent* (*tfx.components.base.base_component*)
