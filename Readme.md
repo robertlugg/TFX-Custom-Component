@@ -1,7 +1,7 @@
 # Custom TFX components
 
 ## Disclaimer
-This is not an official repo but an summary of this [dicussion](https://github.com/tensorflow/tfx/issues/322). 
+This is not an official repo but a summary of this [discussion](https://github.com/tensorflow/tfx/issues/322). 
 
 ## Anatomy of a Component
 Each components consist of a Driver, Executor, Publisher. The driver and
